@@ -1,4 +1,4 @@
-# chegg-backend-final-capstone-we-love-movie-app
+# Final Capstone Kamin Johnson We Love Movies
 ## Capstone project: We-Love-Movies
 
 ## Overview:
